@@ -1,6 +1,3 @@
-# android-backend
-Android app for 'personal Space'
-
 # Personal Space - Android Backend
 
 Backend API for Personal Space Android app.
@@ -16,34 +13,3 @@ Backend API for Personal Space Android app.
 - PostgreSQL (Neon)
 - Firebase Admin (Google Auth)
 - Deployed on Render via GitHub Actions
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
